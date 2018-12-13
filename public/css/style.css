@@ -1,0 +1,10 @@
+.tabel1 {
+	position: center;
+	font-family: sans-serif;
+	color:#232323;
+	border-collapse: collapse;
+}
+.tabel1, th, td {
+	border: 1px solid #999;
+	padding: 8px 20px;
+}
